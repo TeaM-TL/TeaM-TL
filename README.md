@@ -2,7 +2,10 @@
 
 <!--
 **TeaM-TL/TeaM-TL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p>
+<img height="160em" alt="MyGitHubStats" src="https://github-readme-stats.vercel.app/api?username=Team-TL&theme=nord&show_icons=true&count_private=true&hide_border=true">
+<img height="160em" alt="MyMostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=-&layout=compact&theme=nord&hide_border=true">
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
