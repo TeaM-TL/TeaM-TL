@@ -1,6 +1,5 @@
-### Hello
-
 #### Funny stats
+if you use tkinter, stats counts as Tcl/Tk. Of course Tcl/Tk is cool!
 <p>
 <img height="160em" alt="MyGitHubStats" src="https://github-readme-stats.vercel.app/api?username=Team-TL&theme=nord&show_icons=true&count_private=true&hide_border=true">
 <img height="160em" alt="MyMostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Team-TL&layout=compact&theme=nord&hide_border=true">
